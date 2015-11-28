@@ -1,0 +1,10 @@
+com/revze/crudspring/controller/CatatanController.class
+com/revze/crudspring/config/SecurityConfig.class
+com/revze/crudspring/service/UserDao.class
+com/revze/crudspring/domain/Catatan.class
+com/revze/crudspring/domain/Role.class
+com/revze/crudspring/domain/Permission.class
+com/revze/crudspring/service/CatatanDao.class
+com/revze/crudspring/controller/UserController.class
+com/revze/crudspring/App.class
+com/revze/crudspring/domain/User.class

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Aplikasi Catatan</title>
+<link href="/lib/css/material-icons.css" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="/lib/css/materialize.css"  media="screen,projection"/>
+<style type="text/css">
+.crud-cont{
+    margin: 50px auto 40px;
+    width: 70%;
+}
+</style>
+<script src="/lib/js/jquery.min.js"></script>
+<script src="/lib/js/materialize.min.js"></script>
+<script src="/lib/js/angular.min.js"></script>
+<script src="/lib/js/angular-route.min.js"></script>
+<script src="/scripts/app.js"></script>
+<script src="/scripts/controller/catatanController.js"></script>
+<script src="/scripts/service/catatanService.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body ng-app="aplikasiCatatan" class="grey lighten-4">
+<div class="navbar-fixed">
+    <nav class="blue-grey darken-3">
+      <div class="nav-wrapper container">
+        <a href="#" class="brand-logo light">Aplikasi Catatan</a>
+        <ul class="right hide-on-med-and-down">
+            <li><a href="/logout" class="waves-effect waves-light"><i class="material-icons left">&#xE879;</i>Log out</a></li>
+        </ul>
+      </div>
+    </nav>
+</div>
+<div ng-view="" class="crud-cont">
+        
+</div>
+</body>
+</html>

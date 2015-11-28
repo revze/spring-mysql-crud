@@ -1,0 +1,10 @@
+/home/revze/CRUD-Spring/src/main/java/com/revze/crudspring/domain/Permission.java
+/home/revze/CRUD-Spring/src/main/java/com/revze/crudspring/controller/CatatanController.java
+/home/revze/CRUD-Spring/src/main/java/com/revze/crudspring/domain/Catatan.java
+/home/revze/CRUD-Spring/src/main/java/com/revze/crudspring/controller/UserController.java
+/home/revze/CRUD-Spring/src/main/java/com/revze/crudspring/domain/User.java
+/home/revze/CRUD-Spring/src/main/java/com/revze/crudspring/App.java
+/home/revze/CRUD-Spring/src/main/java/com/revze/crudspring/config/SecurityConfig.java
+/home/revze/CRUD-Spring/src/main/java/com/revze/crudspring/service/UserDao.java
+/home/revze/CRUD-Spring/src/main/java/com/revze/crudspring/domain/Role.java
+/home/revze/CRUD-Spring/src/main/java/com/revze/crudspring/service/CatatanDao.java
